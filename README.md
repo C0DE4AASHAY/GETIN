@@ -1,6 +1,7 @@
-# I Am Aashay Kashyap
-
-# And I created a Discord Bot for Server Moderation, Security & Fun
+#                 I Am Aashay Kashyap
+<br>
+And I created a Discord Bot for Server Moderation, Security & Fun
+<br>
 <br>
 <br>
 <br>
@@ -25,7 +26,7 @@
 <br>
 <br>
 
-**[+] What is** `AutoReload.py`
+# **[+] What is** `AutoReload.py`
 
 `AutoReload.py` is a time-saving feature specifically for VS Code users.<br>
 
