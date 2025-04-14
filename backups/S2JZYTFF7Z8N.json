@@ -1,0 +1,72 @@
+{
+    "id": "S2JZYTFF7Z8N",
+    "guild_name": "GeTiN",
+    "roles": [
+        {
+            "name": "GeTiN",
+            "color": 0,
+            "permissions": 2108863302074367,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "Fisul kharch",
+            "color": 15844367,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        }
+    ],
+    "channels": [
+        {
+            "name": "Text channels",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "Voice channels",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "gossips",
+            "type": "text",
+            "category": "Text channels"
+        },
+        {
+            "name": "\ud83d\udd0a Waiting for music",
+            "type": "voice",
+            "category": "Voice channels"
+        },
+        {
+            "name": "bot-testing",
+            "type": "text",
+            "category": "Text channels"
+        },
+        {
+            "name": "developer-news",
+            "type": "text",
+            "category": "Text channels"
+        },
+        {
+            "name": "rules",
+            "type": "text",
+            "category": null
+        },
+        {
+            "name": "moderator-only",
+            "type": "text",
+            "category": null
+        },
+        {
+            "name": "test",
+            "type": "voice",
+            "category": "Voice channels"
+        },
+        {
+            "name": "emoji",
+            "type": "text",
+            "category": "Text channels"
+        }
+    ]
+}

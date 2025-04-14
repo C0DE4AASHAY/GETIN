@@ -1,0 +1,725 @@
+{
+    "id": "D2UVDJP69MFW",
+    "guild_name": "ASCEND ESPORTS \ud83c\uddee\ud83c\uddf3",
+    "roles": [
+        {
+            "name": "Dyno",
+            "color": 0,
+            "permissions": 81230715944959,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u3023\u2501\u2501\u2501\u2501\u2502VIP\u2502\u2501\u2501\u2501\u2501\u2501\u3023",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\ud83d\udc51",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\ud83d\udc51",
+            "color": 0,
+            "permissions": 8,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\ud808\udedd | MGM | \ud808\udedd",
+            "color": 0,
+            "permissions": 2108863302074367,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\ud808\udedd | GOD | \ud808\udedd",
+            "color": 2027964,
+            "permissions": 17601044415544,
+            "mentionable": true,
+            "hoist": true
+        },
+        {
+            "name": "\ud808\udedd | MANAGER | \ud808\udedd",
+            "color": 15277667,
+            "permissions": 8907762171903,
+            "mentionable": true,
+            "hoist": true
+        },
+        {
+            "name": "\ud808\udedd | ADMIN | \ud808\udedd",
+            "color": 22527,
+            "permissions": 8797972071609,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\ud808\udedd | ESPORTS ADMIN | \ud808\udedd",
+            "color": 16089869,
+            "permissions": 8,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\ud808\udedd | HEAD MODERATOR | \ud808\udedd",
+            "color": 6824427,
+            "permissions": 103347616346103,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\ud808\udedd | MODERATOR | \ud808\udedd",
+            "color": 35583,
+            "permissions": 120937152118743,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\ud808\udedd | JUNIOR MODERATOR | \ud808\udedd",
+            "color": 2158725,
+            "permissions": 120919972245459,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\ud808\udedd | CHAT MODERATOR | \ud808\udedd",
+            "color": 10414920,
+            "permissions": 0,
+            "mentionable": true,
+            "hoist": true
+        },
+        {
+            "name": "\u3023\u2501\u2501\u2501\u2501\u2502HELPING TEAM\u2502\u2501\u2501\u2501\u2501\u2501\u3023",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\ud808\udedd | STAFF | \ud808\udedd",
+            "color": 16745728,
+            "permissions": 120936883150531,
+            "mentionable": true,
+            "hoist": true
+        },
+        {
+            "name": "\ud808\udedd | TRAIL STAFF | \ud808\udedd",
+            "color": 14597710,
+            "permissions": 40652103835329,
+            "mentionable": true,
+            "hoist": true
+        },
+        {
+            "name": "\u3023\u2501\u2501\u2501\u2501\u2502SPECIALS\u2502\u2501\u2501\u2501\u2501\u2501\u3023",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\ud808\udedd | VIP | \ud808\udedd",
+            "color": 16252697,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\ud808\udedd | CONTENT CREATOR | \ud808\udedd",
+            "color": 16454162,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\ud808\udedd | SERVER BOOSTER | \ud808\udedd",
+            "color": 13258198,
+            "permissions": 4298181697,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\ud808\udedd | COMMUNITY | \ud808\udedd",
+            "color": 9889322,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u3023\u2501\u2501\u2501\u2501\u2502SERVER BOTS\u2502\u2501\u2501\u2501\u2501\u2501\u3023",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\ud808\udedd | BOTS | \ud808\udedd",
+            "color": 460294,
+            "permissions": 8,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "Quotient",
+            "color": 0,
+            "permissions": 536737213566,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "MEE6",
+            "color": 0,
+            "permissions": 9160963386591,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "OwO",
+            "color": 0,
+            "permissions": 8797167142984,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "Truth or Dare",
+            "color": 0,
+            "permissions": 19456,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "Falcon\u2122",
+            "color": 0,
+            "permissions": 268823806,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "Tickets",
+            "color": 0,
+            "permissions": 2056,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u3023\u2501\u2501\u2501\u2501\u2502SELF ROLES\u2502\u2501\u2501\u2501\u2501\u2501\u3023",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\ud808\udedd | BOY | \ud808\udedd",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\ud808\udedd | GIRL | \ud808\udedd",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\ud808\udedd | Above 18 | \ud808\udedd",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\ud808\udedd | Below 18 | \ud808\udedd",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u3023\u2501\u2501\u2501\u2501\u2502PING ROLES\u2502\u2501\u2501\u2501\u2501\u2501\u3023",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\ud808\udedd | ANNOUNCEMENT | \ud808\udedd",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\ud808\udedd | GIVEAWAY | \ud808\udedd",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\ud808\udedd | ESPORTS | \ud808\udedd",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\ud808\udedd | CHAT REVIVE | \ud808\udedd",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": true,
+            "hoist": false
+        },
+        {
+            "name": "\u3023\u2501\u2501\u2501\u2501\u2502ESPORTS\u2502\u2501\u2501\u2501\u2501\u2501\u3023",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u3023\u2501\u2501\u2501\u2501\u2502EXTRA\u2502\u2501\u2501\u2501\u2501\u2501\u3023",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "Tickets Admin",
+            "color": 0,
+            "permissions": 111016317881345,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "Tickets Support",
+            "color": 0,
+            "permissions": 111016317881345,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "Access To Meeting",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "Invite Tracker",
+            "color": 0,
+            "permissions": 268822624,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "Xenon",
+            "color": 0,
+            "permissions": 8,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "Dank Memer",
+            "color": 0,
+            "permissions": 105227086912,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "DISBOARD.org",
+            "color": 0,
+            "permissions": 19473,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "GeTiN",
+            "color": 0,
+            "permissions": 2108863302074367,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "Disha",
+            "color": 0,
+            "permissions": 347208,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "Ofira",
+            "color": 0,
+            "permissions": 8,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "Mimu",
+            "color": 0,
+            "permissions": 1007021169,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "FF Champions Cup 6pm",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "FF Champions Cup 7pm",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "FF Champions Cup 8pm",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "FF Champions Cup 9pm",
+            "color": 0,
+            "permissions": 0,
+            "mentionable": false,
+            "hoist": false
+        }
+    ],
+    "channels": [
+        {
+            "name": "\u25ac\u25ac COMMUNITY \u25ac\u25ac",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u3022\ud835\ude4d\ud835\ude4a\ud835\ude3c\ud835\ude3f\ud835\ude48\ud835\ude3c\ud835\ude4b",
+            "type": "text",
+            "category": "Free Fire Champions Cup"
+        },
+        {
+            "name": "\u25ac\u25ac IMPORTANT \u25ac\u25ac",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\ud83c\udf10\u2502social",
+            "type": "text",
+            "category": "\u25ac\u25ac IMPORTANT \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83d\udcf7\u2502media",
+            "type": "text",
+            "category": "\u25ac\u25ac COMMUNITY \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83e\udd16\u2502bump-here",
+            "type": "text",
+            "category": "\u25ac\u25ac COMMUNITY \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83c\udf89\u2502giveaways",
+            "type": "text",
+            "category": "\u25ac\u25ac GIVEAWAYS \u25ac\u25ac"
+        },
+        {
+            "name": "transcripts",
+            "type": "text",
+            "category": null
+        },
+        {
+            "name": "quotient-tourney-logs",
+            "type": "text",
+            "category": null
+        },
+        {
+            "name": "mod-only",
+            "type": "text",
+            "category": null
+        },
+        {
+            "name": "staff-announcements",
+            "type": "text",
+            "category": "\u25ac\u25ac STAFFS AREA \u25ac\u25ac"
+        },
+        {
+            "name": "\u25ac\u25ac STAFFS AREA \u25ac\u25ac",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\ud83e\udd40\u2502ask-4-team",
+            "type": "text",
+            "category": "\u25ac\u25ac COMMUNITY \u25ac\u25ac"
+        },
+        {
+            "name": "\u3022\ud835\ude4e\ud835\ude3e\ud835\ude43\ud835\ude40\ud835\ude3f\ud835\ude50\ud835\ude47\ud835\ude40",
+            "type": "text",
+            "category": "Free Fire Champions Cup"
+        },
+        {
+            "name": "\u25ac\u25ac WELCOME \u25ac\u25ac",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\ud83c\udfa7\u3021Music_VC",
+            "type": "voice",
+            "category": "\u25ac\u25ac MUSIC \u25ac\u25ac"
+        },
+        {
+            "name": "\u25ac\u25ac STAFF PERK \u25ac\u25ac",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\ud83d\udcab\u2502partner-info",
+            "type": "text",
+            "category": "\u25ac\u25ac PARTNERS \u25ac\u25ac"
+        },
+        {
+            "name": "Free Fire Champions Cup",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "server-links",
+            "type": "text",
+            "category": "\u25ac\u25ac STAFFS AREA \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83d\udce2\u2503yt-update",
+            "type": "news",
+            "category": "\u25ac\u25ac UPDATES \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83d\udea8\u2502server-support",
+            "type": "text",
+            "category": "\u25ac\u25ac IMPORTANT \u25ac\u25ac"
+        },
+        {
+            "name": "transaction_log",
+            "type": "text",
+            "category": "\u25ac\u25ac STAFFS AREA \u25ac\u25ac"
+        },
+        {
+            "name": "\u2b50\u2502cross_promo",
+            "type": "text",
+            "category": "\u25ac\u25ac PARTNERS \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83d\udcc3\u2502rules",
+            "type": "text",
+            "category": "\u25ac\u25ac IMPORTANT \u25ac\u25ac"
+        },
+        {
+            "name": "staff-chat",
+            "type": "text",
+            "category": "\u25ac\u25ac STAFFS AREA \u25ac\u25ac"
+        },
+        {
+            "name": "General",
+            "type": "voice",
+            "category": "\u25ac\u25ac MAIN VOICE \u25ac\u25ac"
+        },
+        {
+            "name": "meeting",
+            "type": "text",
+            "category": "\u25ac\u25ac STAFFS AREA \u25ac\u25ac"
+        },
+        {
+            "name": "\u2728\u2502boosters",
+            "type": "text",
+            "category": "\u25ac\u25ac IMPORTANT \u25ac\u25ac"
+        },
+        {
+            "name": "staff-commands",
+            "type": "text",
+            "category": "\u25ac\u25ac STAFFS AREA \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83c\udf89\u2502drops",
+            "type": "text",
+            "category": "\u25ac\u25ac GIVEAWAYS \u25ac\u25ac"
+        },
+        {
+            "name": "\u3022\ud835\ude4c\ud835\ude50\ud835\ude40\ud835\ude4d\ud835\ude44\ud835\ude40\ud835\ude4e",
+            "type": "text",
+            "category": "Free Fire Champions Cup"
+        },
+        {
+            "name": "\u3022\ud835\ude4d\ud835\ude40\ud835\ude4e\ud835\ude50\ud835\ude47\ud835\ude4f",
+            "type": "text",
+            "category": "Free Fire Champions Cup"
+        },
+        {
+            "name": "\u25ac\u25ac FUNZONE \u25ac\u25ac",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u2728\u2502chat-with-disha",
+            "type": "text",
+            "category": "\u25ac\u25ac COMMUNITY \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83d\udc4b\u2502welcome",
+            "type": "text",
+            "category": "\u25ac\u25ac WELCOME \u25ac\u25ac"
+        },
+        {
+            "name": "\u3010\ud83c\udfae\u3011owo",
+            "type": "text",
+            "category": "\u25ac\u25ac FUNZONE \u25ac\u25ac"
+        },
+        {
+            "name": "\u25ac\u25ac UPDATES \u25ac\u25ac",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u3022\ud835\ude4d\ud835\ude50\ud835\ude47\ud835\ude40\ud835\ude4e",
+            "type": "text",
+            "category": "Free Fire Champions Cup"
+        },
+        {
+            "name": "AFK",
+            "type": "voice",
+            "category": "\u25ac\u25ac MAIN VOICE \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83e\udd1d\u2502partners",
+            "type": "text",
+            "category": "\u25ac\u25ac PARTNERS \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83d\udc4b\u2502introduction",
+            "type": "text",
+            "category": "\u25ac\u25ac WELCOME \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83d\udce3\u2503announcements",
+            "type": "news",
+            "category": "\u25ac\u25ac UPDATES \u25ac\u25ac"
+        },
+        {
+            "name": "\u3010\ud83c\udf55\u3011truth-or-dare",
+            "type": "text",
+            "category": "\u25ac\u25ac FUNZONE \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83d\udcb0\u2503payments-proof",
+            "type": "news",
+            "category": "\u25ac\u25ac UPDATES \u25ac\u25ac"
+        },
+        {
+            "name": "\u3022\ud835\ude44\ud835\ude49\ud835\ude41\ud835\ude4a\ud835\ude4d\ud835\ude48\ud835\ude3c\ud835\ude4f\ud835\ude44\ud835\ude4a\ud835\ude49",
+            "type": "text",
+            "category": "Free Fire Champions Cup"
+        },
+        {
+            "name": "Staff Vc",
+            "type": "voice",
+            "category": "\u25ac\u25ac STAFFS AREA \u25ac\u25ac"
+        },
+        {
+            "name": "Meeting",
+            "type": "voice",
+            "category": "\u25ac\u25ac STAFFS AREA \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83c\udfb6\u3021music_cmd",
+            "type": "text",
+            "category": "\u25ac\u25ac MUSIC \u25ac\u25ac"
+        },
+        {
+            "name": "\ud83d\udea8\u2502dyno-logs",
+            "type": "text",
+            "category": "\u25ac\u25ac LOGS \u25ac\u25ac"
+        },
+        {
+            "name": "\u25ac\u25ac GIVEAWAYS \u25ac\u25ac",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u25ac\u25ac MUSIC \u25ac\u25ac",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u25ac\u25ac PARTNERS \u25ac\u25ac",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "quotient-private",
+            "type": "text",
+            "category": null
+        },
+        {
+            "name": "getin-logs",
+            "type": "text",
+            "category": "\u25ac\u25ac LOGS \u25ac\u25ac"
+        },
+        {
+            "name": "\u3010\ud83d\udc38\u3011dank-memer",
+            "type": "text",
+            "category": "\u25ac\u25ac FUNZONE \u25ac\u25ac"
+        },
+        {
+            "name": "\u2615\u2502general-chat",
+            "type": "text",
+            "category": "\u25ac\u25ac COMMUNITY \u25ac\u25ac"
+        },
+        {
+            "name": "\u3022\ud835\ude40\ud835\ude49\ud835\ude3f-\ud835\ude4e\ud835\ude4e",
+            "type": "text",
+            "category": "Free Fire Champions Cup"
+        },
+        {
+            "name": "\u2728\u2502paid_promo",
+            "type": "text",
+            "category": "\u25ac\u25ac PARTNERS \u25ac\u25ac"
+        },
+        {
+            "name": "\u25ac\u25ac MAIN VOICE \u25ac\u25ac",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\ud83d\udea8\u2502invite-logs",
+            "type": "text",
+            "category": "\u25ac\u25ac LOGS \u25ac\u25ac"
+        },
+        {
+            "name": "\u3022apply-4-staff",
+            "type": "text",
+            "category": "\u25ac\u25ac STAFF PERK \u25ac\u25ac"
+        },
+        {
+            "name": "\u25ac\u25ac LOGS \u25ac\u25ac",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u3022\ud835\ude50\ud835\ude4b\ud835\ude3f\ud835\ude3c\ud835\ude4f\ud835\ude40",
+            "type": "news",
+            "category": "Free Fire Champions Cup"
+        },
+        {
+            "name": "\u3022staff-recruitment",
+            "type": "text",
+            "category": "\u25ac\u25ac STAFF PERK \u25ac\u25ac"
+        }
+    ]
+}
