@@ -1,0 +1,26 @@
+{
+    "name": "SERVER",
+    "roles": [
+        {
+            "name": "Visual Studio Code",
+            "color": 0,
+            "permissions": 8,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "GeTiN",
+            "color": 0,
+            "permissions": 2171600904,
+            "mentionable": false,
+            "hoist": false
+        }
+    ],
+    "channels": [
+        {
+            "name": "test",
+            "type": "text",
+            "category": null
+        }
+    ]
+}
