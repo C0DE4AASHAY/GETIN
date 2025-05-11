@@ -30,8 +30,10 @@ class ModCog(commands.Cog):
                 '<a:A_arrow_arrow:1190713832860037272> **Add Role**: `/addrole`\n'
                 '<a:A_arrow_arrow:1190713832860037272> **Remove Role**: `/rmrole`\n'
                 '<a:A_arrow_arrow:1190713832860037272> **Timeout**: `/timeout`\n'
-                '<a:A_arrow_arrow:1190713832860037272> **Untimeout**: `/unto`\n'
-                '<a:A_arrow_arrow:1190713832860037272> **Delete message**: `/dmsg`\n'
+                '<a:A_arrow_arrow:1190713832860037272> **Untimeout**: `/unto`\n' \
+                '<a:A_arrow_arrow:1190713832860037272> **DM User**: `-dm @user <message>`\n'
+                '<a:A_arrow_arrow:1190713832860037272> **DM All Members**: `/dmall`\n'
+                '<a:A_arrow_arrow:1190713832860037272> **Delete message**: `/dmsg or /dmsgall`\n'
             ),
             color=discord.Color.green()
         )

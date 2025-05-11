@@ -1,0 +1,916 @@
+{
+    "id": "OGXUJOCX3ORG",
+    "guild_name": "WT_FIRE",
+    "roles": [
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fb \ud83d\udc51\u300d",
+            "color": 0,
+            "permissions": 1125908496252671,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u239d \u30fb  S \u03a3 \u13df U R \u03a3 D  \u30fb \u23a0\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "color": 0,
+            "permissions": 8560037623,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fb F \u03a9 U \u041f D \u03a3 R\u300d",
+            "color": 16715520,
+            "permissions": 8589410047,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fb\u13df \u13d2 \u03a3 \u039b \u01ac \u03a9 \u13d2\u300d",
+            "color": 16711935,
+            "permissions": 8560049919,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbC\u03a3\u00d8/F\u00d8U\u041fD\u03a3R\u300d",
+            "color": 16252672,
+            "permissions": 6844567291,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u239d \u30fb  FULL POWER  \u30fb \u23a0\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "color": 0,
+            "permissions": 6815207167,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fb\u13df\u00d8-F\u03a9UND\u03a3\u13d2\u300d",
+            "color": 2807551,
+            "permissions": 8023166719,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fb\u03a3X\u03a3\u13dfU\u01acIV\u03a3\u300d",
+            "color": 4915079,
+            "permissions": 8572632829,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbDI\u13d2\u03a3\u13df\u01ac\u03a9\u13d2\u300d",
+            "color": 5024511,
+            "permissions": 8560041727,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fb\u041fAME IS ENOUGH\u300d",
+            "color": 16777215,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbMOST ACTIVE [CHAT]\u300d",
+            "color": 526344,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u239d \u30fb  PERMS ACCESS  \u30fb \u23a0\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbKICK-BAN PERMS\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbMANAGE EMOJI PERMS\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbAUDITLOG PERMS\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbMANAGE ROLES PERMS\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbMANAGE SERVER PERMS\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbMANAGE CHANNELS PERMS\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u239d \u30fb SUPREME POWERS \u30fb \u23a0\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "color": 0,
+            "permissions": 8589410047,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbH\u03a3\u039bD M\u039bN\u039bG\u03a3M\u03a3N\u01ac \u300d",
+            "color": 458537,
+            "permissions": 8560037631,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fb\u039bDMIN\u300d",
+            "color": 855567,
+            "permissions": 8560041719,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbM\u039bN\u039bGEMEN\u01ac DI\u13d2\u03a3\u13df\u01ac\u03a9\u13d2\u300d",
+            "color": 15941887,
+            "permissions": 8589410039,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbSUPPORT TEAM \u300d",
+            "color": 9603071,
+            "permissions": 6815207159,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbH\u03a3\u039bD M\u03a9D\u03a3\u13d2\u039b\u01ac\u03a9\u13d2\u300d",
+            "color": 16774656,
+            "permissions": 8023166531,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbS\u03a3\u041fI\u03a9\u13d2 M\u03a9D\u03a3\u13d2\u039b\u01ac\u03a9\u13d2\u300d",
+            "color": 16759685,
+            "permissions": 6815075923,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fb\u13dfH\u039b\u01ac M\u03a9D\u03a3\u13d2\u039b\u01ac\u03a9\u13d2\u300d",
+            "color": 10092505,
+            "permissions": 6815206995,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fb\u2c6e\u03a9D\u03a3\u13d2\u039b\u01ac\u03a9\u13d2\u300d",
+            "color": 6684590,
+            "permissions": 6949244419,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbGIRL MODERATOR\u300d",
+            "color": 16735221,
+            "permissions": 6815206995,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbH\u03a3LP\u03a3RS\u300d",
+            "color": 16744825,
+            "permissions": 6546640467,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u239d \u30fbSTAFF POWERS \u30fb \u23a0\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbTRAIL MODERATOR\u300d",
+            "color": 8173055,
+            "permissions": 6546591297,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbSTAFF\u300d",
+            "color": 53759,
+            "permissions": 6546591297,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbOFFICIALS\u300d",
+            "color": 16580500,
+            "permissions": 6546591297,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbGIVEAWAY MANAGER\u300d",
+            "color": 10071295,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u239d \u30fb L E V E L  \u30fb \u23a0\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 100\u4e28GOD\u300d",
+            "color": 16711680,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 95\u4e28LEGEND\u300d",
+            "color": 16732240,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 90\u4e28MEGA X \u300d",
+            "color": 1638655,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 85\u4e28MEGA Y \u300d",
+            "color": 8155635,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 80\u4e28KIRA \u300d",
+            "color": 3251199,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 75\u4e28LAWLIET L\u300d",
+            "color": 2156031,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 70\u4e28SHINGAMI\u300d",
+            "color": 4194222,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 65\u4e28ACE\u300d",
+            "color": 4652939,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 60\u4e28GREAT\u300d",
+            "color": 8716205,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 55\u4e28GRAND MASTER\u300d",
+            "color": 2474073,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 50\u4e28CHAMPION\u300d",
+            "color": 3129384,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 45\u4e28HACKER\u300d",
+            "color": 14612270,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 40\u4e28PROFESSIONAL\u300d",
+            "color": 16741120,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 35\u4e28MASTER\u300d",
+            "color": 15372346,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 30\u4e28INSANE\u300d",
+            "color": 16754014,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 25\u4e28EXTREME\u300d",
+            "color": 16734296,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 20\u4e28SUPERB\u300d",
+            "color": 16742777,
+            "permissions": 6546640449,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 15\u4e28COOL\u300d",
+            "color": 16746375,
+            "permissions": 6546640449,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 10\u4e28NICE\u300d",
+            "color": 16560304,
+            "permissions": 6546640449,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbLEVEL 5\u4e28BEGINNER\u300d",
+            "color": 16764108,
+            "permissions": 6546640449,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u239d \u30fbSECURITY ROLES   \u30fb \u23a0\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbPARTNERS\u300d",
+            "color": 9961402,
+            "permissions": 6546591297,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbFRIENDS\u300d",
+            "color": 5046177,
+            "permissions": 6546591233,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fb\u03a9P G\u039bM\u03a3RS\u300d",
+            "color": 1052945,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbCLOS\u03a3  O\u041f\u03a3S\u300d",
+            "color": 16740084,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbMEMBERS\u300d",
+            "color": 15441407,
+            "permissions": 6546591233,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fb BOTS\u300d",
+            "color": 12928767,
+            "permissions": 7956057841,
+            "mentionable": false,
+            "hoist": true
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u239d \u30fb  A B O U T  M E   \u30fb \u23a0\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "color": 0,
+            "permissions": 6546591297,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbMALE\u300d",
+            "color": 4300016,
+            "permissions": 4399107649,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbFEMALE\u300d",
+            "color": 15943813,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbANDROID\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbIOS\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbEMULATOR\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbABOVE 18\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbBELOW 18\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbSINGLE\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbMINGLE\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbSONG LOVER\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbTALKATIVE\u300d",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u239d \u30fb  P I N G S  \u30fb \u23a0\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "color": 0,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbYOUTUBE PINGS\u300d",
+            "color": 4762367,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbGIVEAWAY PINGS\u300d",
+            "color": 4762367,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\ud808\udf0b\ud808\udc16 \u300c\ud83d\udf32\u30fbPARTNERHIP PINGS\u300d",
+            "color": 4762367,
+            "permissions": 6546771521,
+            "mentionable": false,
+            "hoist": false
+        },
+        {
+            "name": "GeTiN",
+            "color": 0,
+            "permissions": 8,
+            "mentionable": false,
+            "hoist": false
+        }
+    ],
+    "channels": [
+        {
+            "name": "\u251c\u30fb\ud83c\udf80\u30fbtruth-or-dare",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500FUN-GAMES\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u256d\u30fb\ud83c\udf28\u30fbannouncements",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500IMPORTANT\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u256d\u30fb\ud83d\udc9e\u30fbrank-check",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500CHECK\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udfa4\u30fbCLUB",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500VOICE\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u256d\u30fb\ud83d\udea8\u30fbmod-mail",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500LOGS\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\u2744\u30fbleft",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500WELCOME\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udf84\u30fbmedia",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500GENERAL\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udfb5\u30fbrythm-commands",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udf28\u30fbgiveaway-proof",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500IMPORTANT\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udf80\u30fbanigame",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500FUN-GAMES\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u2570\u30fb\ud83c\udf84\u30fbpartners",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500GENERAL\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u256d\u30fb\ud83c\udf41\u30fbinvite-rewards",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500REWARDS\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\ud83d\udd25\u30fbTOTAL: X",
+            "type": "voice",
+            "category": null
+        },
+        {
+            "name": "\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500VOICE\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500REWARDS\u2500\u2500\u2500\u27a4",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u2570\u30fb\u2744\u30fbself-roles",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500WELCOME\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500VOICE\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\ud83d\udd25\u30fbGOAL: Y",
+            "type": "voice",
+            "category": null
+        },
+        {
+            "name": "\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500VOICE\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u256d\u30fb\u2744\u30fbwelcome",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500WELCOME\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u2570\u30fb\ud83c\udf28\u30fbbooster",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500IMPORTANT\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udfa4\u30fbCLUB",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500VOICE\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83d\udc7f\u30fbserver-cmd",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500ADMIN-PANEL\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udf80\u30fbzero-two",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500FUN-GAMES\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u256d\u30fb\ud83c\udf80\u30fbdank-memer",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500FUN-GAMES\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udfb5\u30fbhydra-commands",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udf80\u30fbakinator",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500FUN-GAMES\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500WELCOME\u2500\u2500\u2500\u27a4",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u2570\u30fb\ud83c\udfb5\u30fboctave-command",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u256d\u30fb\ud83c\udf84\u30fbchat",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500GENERAL\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u256d\u30fb\ud83d\udc7f\u30fbdashboard",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500ADMIN-PANEL\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udf80\u30fbcasino",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500FUN-GAMES\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500VOICE\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83d\udcc0\u30fbRYTHM [!]",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500VOICE\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500VOICE\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udfa4\u30fbCLUB",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500VOICE\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83d\udcc0\u30fbGROOVY [-]",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udfa4\u30fbCLUB",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500VOICE\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udf28\u30fbgiveaways",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500IMPORTANT\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500\ud83d\udd25\u2500\u2500\u2500\u27a4",
+            "type": "voice",
+            "category": null
+        },
+        {
+            "name": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500GENERAL\u2500\u2500\u2500\u27a4",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500\ud83d\udd25\u2500\u2500\u2500\u27a4",
+            "type": "voice",
+            "category": null
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udf80\u30fbpoketwo",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500FUN-GAMES\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u2570\u30fb\ud83d\udea8\u30fbvortex-logs",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500LOGS\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udf84\u30fbpaid-promotion",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500GENERAL\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u2570\u30fb\ud83d\udc9e\u30fbrank-up",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500CHECK\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udfa4\u30fbCLUB",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500VOICE\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500CHECK\u2500\u2500\u2500\u27a4",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500LOGS\u2500\u2500\u2500\u27a4",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udf80\u30fbai-chat",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500FUN-GAMES\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83d\udea8\u30fbapplication-logs",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500LOGS\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u27a4",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u2570\u30fb\ud83c\udf41\u30fbproof",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500REWARDS\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500VOICE\u2500\u2500\u2500\u27a4",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u251c\u30fb\u2744\u30fbrules",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500WELCOME\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u2570\u30fb\ud83d\udc7f\u30fbSTAFF VC",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500ADMIN-PANEL\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u251c\u30fb\ud83c\udf84\u30fbbot-commands",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500GENERAL\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u256d\u30fb\ud83c\udfb5\u30fbgroovy-command",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500FUN-GAMES\u2500\u2500\u2500\u27a4",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500IMPORTANT\u2500\u2500\u2500\u27a4",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u251c\u30fb\ud83d\udcc0\u30fbOCTAVE [ _ ]",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500ADMIN-PANEL\u2500\u2500\u2500\u27a4",
+            "type": "category",
+            "category": null
+        },
+        {
+            "name": "\u251c\u30fb\ud83d\udcc0\u30fbHYDRA [.]",
+            "type": "voice",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500MUSIC\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "\u2570\u30fb\ud83c\udf80\u30fbowo",
+            "type": "text",
+            "category": "\u274d\u2500\u2500\u2500\u2500\u2500\u2500FUN-GAMES\u2500\u2500\u2500\u27a4"
+        },
+        {
+            "name": "moderator-only",
+            "type": "text",
+            "category": null
+        }
+    ]
+}

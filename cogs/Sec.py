@@ -83,7 +83,7 @@ class SpamProtectionCog(commands.Cog):
         await self.check_spam(message)
 
     # Slash Command: Enable Spam Protection
-    @app_commands.command(name="enable_spam", description="Enable spam protection")
+    @app_commands.command(name="sec_on", description="Enable spam protection")
     async def enable_spam(self, interaction: discord.Interaction):
         if not interaction.user.guild_permissions.administrator:
             return await interaction.response.send_message("❌ You don't have permission to use this command.", ephemeral=True)
@@ -96,7 +96,7 @@ class SpamProtectionCog(commands.Cog):
         await interaction.response.send_message(embed=embed)
 
     # Slash Command: Disable Spam Protection
-    @app_commands.command(name="disable_spam", description="Disable spam protection")
+    @app_commands.command(name="sec_off", description="Disable spam protection")
     async def disable_spam(self, interaction: discord.Interaction):
         if not interaction.user.guild_permissions.administrator:
             return await interaction.response.send_message("❌ You don't have permission to use this command.", ephemeral=True)
@@ -109,7 +109,7 @@ class SpamProtectionCog(commands.Cog):
         await interaction.response.send_message(embed=embed)
 
     # Slash Command: Status of Spam Protection
-    @app_commands.command(name="spam_status", description="Show spam protection status")
+    @app_commands.command(name="sec_status", description="Show spam protection status")
     async def spam_status(self, interaction: discord.Interaction):
         if not interaction.user.guild_permissions.administrator:
             return await interaction.response.send_message("❌ You don't have permission to use this command.", ephemeral=True)

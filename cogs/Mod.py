@@ -213,30 +213,63 @@ class Mod(commands.Cog):
 
 
     # ----------------------------------- DM ALL USERS (Prefix) ----------------------------------- #
-    @commands.command(name='dmall')
-    @commands.has_permissions(administrator=True)
-    async def dmall(self, ctx, *, message: str):
-        members = [member for member in ctx.guild.members if not member.bot]
-        await ctx.send(f"📩 Sending messages to {len(members)} members...")
+    @app_commands.command(name="dmall", description="Send a DM to all non-bot members in the server")
+    @app_commands.describe(
+        use_embed="Send message as embed or not",
+        title="Title of the embed (used only if embed is True)",
+        description="Main content of the message",
+        footer="Footer of the embed (used only if embed is True)"
+    )
+    async def dmall(
+        self,
+        interaction: discord.Interaction,
+        use_embed: bool,
+        description: str,
+        title: str = None,
+        footer: str = None
+    ):
+        if not interaction.user.guild_permissions.administrator:
+            await interaction.response.send_message("❌ You need administrator permissions to use this command.", ephemeral=True)
+            return
+
+        await interaction.response.send_message(f"📩 Sending messages... This may take a while.", ephemeral=True)
+
+        members = [member for member in interaction.guild.members if not member.bot]
+        total_success, total_failed = 0, 0
+        batch_size = 10
 
         async def send_dm(member):
             try:
-                await member.send(message)
+                if use_embed:
+                    embed = discord.Embed(
+                        title=title or "📢 Announcement",
+                        description=description,
+                        color=discord.Color.green()
+                    )
+                    if footer:
+                        embed.set_footer(text=footer)
+                    await member.send(embed=embed)
+                else:
+                    await member.send(description)
                 return True
             except:
                 return False
-
-        batch_size = 10
-        total_success, total_failed = 0, 0
 
         for i in range(0, len(members), batch_size):
             batch = members[i:i+batch_size]
             results = await asyncio.gather(*[send_dm(member) for member in batch])
             total_success += results.count(True)
             total_failed += results.count(False)
-            await asyncio.sleep(0.01)
+            await asyncio.sleep(0.1)
 
-        await ctx.send(f"✅ Sent to {total_success}, ❌ Failed: {total_failed}")
+        await interaction.followup.send(f"✅ Successfully sent to {total_success} members.\n❌ Failed to send to {total_failed} members.", ephemeral=True)
+
+    @dmall.error
+    async def dmall_error(self, interaction: discord.Interaction, error):
+        if isinstance(error, app_commands.AppCommandError):
+            await interaction.response.send_message("❌ An error occurred while processing the command.", ephemeral=True)
+
+
 
     # ----------------------------------- SYNC ----------------------------------- #
     @commands.Cog.listener()

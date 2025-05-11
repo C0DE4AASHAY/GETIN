@@ -15,13 +15,15 @@ class Help(commands.Cog):
             title='📊 GeTiN Dashboard',
             description=(
                 f"**Server Name:** `{server_name}`\n\n"
-                "<a:A_arrow_arrow:1190713832860037272> `/mods` — **Show Moderators**(For Admin Use Only)\n"
-                "<a:A_arrow_arrow:1190713832860037272> `/sec` — **Security Options**(For Admin Use Only)\n"
-                "<a:A_arrow_arrow:1190713832860037272> `/games` — **Games to play** *(Coming Soon...)*\n"
-                "<a:A_arrow_arrow:1190713832860037272> `/music` — **Music Commands** *(Working On...)*\n"
-                "<a:A_arrow_arrow:1190713832860037272> `-fun` — **Fun Commands** *(Coming Soon...)*\n"
-                "<a:A_arrow_arrow:1190713832860037272> `-logs` — **Bot Logs**(For Admin Use Only)\n" \
-                "<a:A_arrow_arrow:1190713832860037272> `/backup_create` — **Create and Load backups**(For Admin Use Only)"
+                "<a:A_arrow_arrow:1190713832860037272> `/mods` — **Show Moderators**\n"
+                "<a:A_arrow_arrow:1190713832860037272> `/backup_create` — **Create and Load backups**\n"
+                "<a:A_arrow_arrow:1190713832860037272> `/logs` — **Bot Logs**\n"
+                "<a:A_arrow_arrow:1190713832860037272> `-fun` — **Fun Commands**\n"
+                "<a:A_arrow_arrow:1190713832860037272> `-music` — **Music Commands** *(Working On...)*\n"
+                "<a:A_arrow_arrow:1190713832860037272> `-sec` — **Security Options**\n"
+                "<a:A_arrow_arrow:1190713832860037272> `-info` — **Server Information**\n"
+                # "<a:A_arrow_arrow:1190713832860037272> `/games` — **Games to play** *(Coming Soon...)*\n"
+
             ),
             color=discord.Color.green()
         )
@@ -47,6 +49,9 @@ class Help(commands.Cog):
         embed = self.generate_help_embed(ctx.guild.name)
         view = self.generate_invite_button()
         await ctx.send(embed=embed, view=view)
+
+
+
 
 
     # 🔁 Slash command version of help
